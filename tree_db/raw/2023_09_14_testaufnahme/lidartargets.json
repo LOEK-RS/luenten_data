@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "lidartargets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4979" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "1", "Name": "weg", "Ost": "349635.81", "Nord": "5776085.79", "Höhe": "-2", "Lon": "6.80396068", "Lat": "52.11483868", "Pdop": "0.88", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8039607, 52.114839, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "2", "Name": "weg2", "Ost": "349659.38", "Nord": "5776183.19", "Höhe": "-2", "Lon": "6.8042617", "Lat": "52.11572017", "Pdop": "0.89", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8042617, 52.11572, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "3", "Name": "eg2", "Ost": "349678.67", "Nord": "5775999.17", "Höhe": "-2", "Lon": "6.80462439", "Lat": "52.11407219", "Pdop": "0.92", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8046244, 52.114072, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "4", "Name": "weg4", "Ost": "349807.77", "Nord": "5776006.63", "Höhe": "-2", "Lon": "6.80650516", "Lat": "52.11417425", "Pdop": "0.92", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8065051, 52.114174, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "5", "Name": "wiese1", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8068637, 52.11364, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "6", "Name": "wiese2", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8065026, 52.11353, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "7", "Name": "wiese3", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8078248, 52.11371, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "8", "Name": "weg5", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8090867, 52.11428, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "9", "Name": "weg67", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8110505, 52.114371, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "10", "Name": "eg ost1", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8148261, 52.114556, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "11", "Name": "gargel", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8151868, 52.114242, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "12", "Name": "ost3", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8181925, 52.113715, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "13", "Name": "schildpfosten nord", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8196545, 52.115704, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "14", "Name": "schldpfosten sued", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8196422, 52.115683, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "15", "Name": "pfostensued", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8196406, 52.115684, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "16", "Name": "nord1", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8195612, 52.115801, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "17", "Name": "sued", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8186309, 52.111131, -2.0 ] } },
+{ "type": "Feature", "properties": { "ID": "18", "Name": "hochsitz", "Ost": "", "Nord": "", "Höhe": "", "Lon": "", "Lat": "", "Pdop": "", "Dokument": "", "txStatus": "Act" }, "geometry": { "type": "Point", "coordinates": [ 6.8169333, 52.112405, -2.0 ] } }
+]
+}
